@@ -1,2 +1,9 @@
-title: My Portfolio
+title: Jordan Pomer Cybersecurity Portfolio
+
+description: > 
+  Blue Team Analyst portfolio with projects, writeups, and labs.
+baseurl: ""
+
+url: "https://JordanPomer.github.io"
+
 theme: minima
